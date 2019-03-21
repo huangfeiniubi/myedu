@@ -15,15 +15,15 @@ def float_demo():
     print(type(afloat))
     return afloat +1
 
-def add(aint,bint):
+def addd(aint,bint):
     return aint - bint
 
 if __name__ == '__main__':
-    s = add(7,4)
+    s = addd(7,4)
     print(s)
 
 
-    # int_demo(0.2)
+    # int_demo(0.2)hu11111
 
 
 
